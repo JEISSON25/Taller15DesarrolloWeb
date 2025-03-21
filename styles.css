@@ -1,0 +1,17 @@
+
+
+.button {
+    padding: 14px 20px;
+    margin: 8px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.fondo {
+    background-color: #ec2185;
+}
+
+.tamanio {
+    font-size: 80px;
+}
